@@ -1,0 +1,110 @@
+h1{
+    font-family: 'Abril Fatface', cursive;
+font-family: 'DM Serif Display', serif;
+font-family: 'Playfair Display', serif;
+font-size: 75px;
+}
+body{
+    font-family: 'Be Vietnam Pro', sans-serif;
+}
+.heading-colour{
+    color: orangered;
+}
+.first-class{
+    display: flex;
+    margin: 150px;
+}
+.half-width{
+    width: 60%; 
+    padding-left: 5%;
+}
+.second-class{
+    margin: 150px;
+   
+}
+.half-width img{
+width: 80%;
+}
+.link-button{
+    text-decoration: None;
+    background-image: linear-gradient(orangered,orange);
+    padding: 10px 40px;
+    border-radius: 8px;
+    color: white;
+    font-weight: 600;
+}
+.mission{
+    font-family: 'Poppins', sans-serif;
+    margin: 0 auto;
+    text-align: center;
+}
+.year{
+    color: darkblue;
+}
+.boxes{
+    display: flex;
+    margin-bottom: 7%;
+}
+.mvg{
+    
+    width: 50%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 45px;
+    padding-right: 45px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 10px;
+    text-align: center;
+}
+#box-1{
+    background-color: mediumaquamarine;
+}
+#box-2{
+    background-color: peachpuff;
+}
+#box-3{
+    background-color: skyblue;
+}
+.third-class{
+    display: flex;
+    margin: 150px;
+    background-image: url(shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+  background-size: cover;
+}
+.develop{
+    font-family: 'Poppins', sans-serif;
+}
+p{
+    font-size: large;
+}
+.fourth-class{
+    display: flex;
+    margin: 150px;
+    background-image: url(shapes/shape-4.png);
+    background-repeat: no-repeat;
+    background-position: left;
+  background-size: cover;
+}
+.fifth-class{
+    display: flex;
+    margin: 150px;
+    
+
+
+}
+.stay{
+    font-family: 'Poppins', sans-serif;
+}
+.safe{
+    color: darkblue;
+
+}
+footer{
+    background-color: black;
+    padding: 10px;
+    text-align: center;
+    color: white;
+}
